@@ -1,4 +1,4 @@
-# ⌨ Atalhos Visual Studico Code
+# ⌨ Atalhos Visual Studio Code
 
 
 ![img](https://user-images.githubusercontent.com/78583429/214905197-da4f1f7e-2064-4ce6-ab25-dc6eb7aa4698.png)
