@@ -44,5 +44,5 @@
 | Ctrl + Espaço                      |                | Abrir o intellisense (ajuda de preenchimento de código que inclui inúmeras funcionalidades)                                                    |
 | Lorem + TAB      |                | Texto lorem. Adicionando um número após o lorem (ex: Lorem10) é possível decidir a quantidade de palavras que terá no texto                                        |
 |  Shift + Alt +  .        |                |  Quick fix. Ajusta automaticamente a parte do código selecionada                                      |
-|  Shift + V         |                |  Abrir visuzaliação de arquivos .MD                                     |
+|  Ctrl + Shift + V         |            |  Abrir visuzaliação de arquivos .MD                                     |
 |  Shift + O         |                | Abrir live server                                   |
